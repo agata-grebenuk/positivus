@@ -370,7 +370,7 @@ h3 {
         padding: 30px;
         position: absolute;
         left: 0;
-        border-radius: 20px;
+        border-radius: 20px 20px 0px 0px;
         margin-top: 10px;
     }
 }
